@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-mdi",
+  "version": "0.1.0",
+  "description": "Markdown-it plugin that adds Material Design icons support",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-it-regexp": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syarul/markdown-it-mdi.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "materialdesign"
+  ],
+  "author": "Shahrul Nizam Selamat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syarul/markdown-it-mdi/issues"
+  },
+  "homepage": "https://github.com/syarul/markdown-it-mdi#readme"
+}
