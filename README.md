@@ -33,7 +33,7 @@ var mdi = require('markdown-it-mdi');
 md().use(mdi);
 ```
 
- > originally taken from [markdown-it-fontawesome](https://github.com/nunof07/markdown-it-fontawesome) by @nunof07
+ > originally taken from [markdown-it-fontawesome](https://github.com/nunof07/markdown-it-fontawesome) by [nunof07](https://github.com/nunof07)
 
 [markdown-it]: https://github.com/markdown-it/markdown-it
 [fontawesome]: https://fortawesome.github.io/Font-Awesome/
