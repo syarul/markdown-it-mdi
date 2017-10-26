@@ -2,7 +2,7 @@
 
 var Plugin = require('markdown-it-regexp');
 
-module.exports = function fontawesome_plugin(md) {
+module.exports = function(md) {
 	md.use(Plugin(
 		/\:mdi-([\w\-]+)\:/,
 		function (match, utils) {
